@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27" started-at="2021-05-01T15:07:00Z" finished-at="2021-05-01T15:07:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27" started-at="2021-05-01T15:07:00Z" finished-at="2021-05-01T15:07:00Z">
+      <class name="QAclickaccademy.mvjava.AppiumTest">
+        <test-method status="PASS" signature="iosTest()[pri:0, instance:QAclickaccademy.mvjava.AppiumTest@67b64c45]" name="iosTest" duration-ms="1" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosTest -->
+        <test-method status="PASS" signature="nativeTest()[pri:0, instance:QAclickaccademy.mvjava.AppiumTest@67b64c45]" name="nativeTest" duration-ms="0" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeTest -->
+      </class> <!-- QAclickaccademy.mvjava.AppiumTest -->
+      <class name="QAclickaccademy.mvjava.ApiTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:QAclickaccademy.mvjava.ApiTest@506e6d5e]" name="BrowserAutomation" duration-ms="7" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:QAclickaccademy.mvjava.ApiTest@506e6d5e]" name="ElementsUi" duration-ms="1" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- QAclickaccademy.mvjava.ApiTest -->
+      <class name="QAclickaccademy.mvjava.AppTest2">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:QAclickaccademy.mvjava.AppTest2@4411d970]" name="postJira" duration-ms="0" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:QAclickaccademy.mvjava.AppTest2@4411d970]" name="deleteTwitter" duration-ms="0" started-at="2021-05-01T20:37:00Z" finished-at="2021-05-01T20:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- QAclickaccademy.mvjava.AppTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
